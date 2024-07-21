@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **harshalbhujbal34@gmail.com**
 
-- 📄 Know about my experiences [Check Here](https://drive.google.com/file/d/12tYtCyAW8YCLT5qPnRs11G-Sw-hX0Ppi/view?usp=drive_link))
+- 📄 Know about my experiences [Check Here](https://drive.google.com/file/d/12tYtCyAW8YCLT5qPnRs11G-Sw-hX0Ppi/view?usp=drive_link)
 
 - ⚡ Fun fact **Did you know that as an Azure Data Engineer, you get to work with some of the most cutting-edge cloud technologies? 🌩️ One particularly fun tool is Azure Synapse Analytics, which allows you to combine big data and data warehousing into a single, unified experience. 📊✨ This means you can query both relational and non-relational data with lightning speed, making it feel like you're performing magic on massive datasets! 🎩🔮**
 
